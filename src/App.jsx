@@ -8,7 +8,7 @@ import UseState from './components/UseState/UseState'
 
 function App() {
   return (
-    <div style={{display: 'flex', flexDirection:"column", alignItems:"center", overflowX:"hidden", width:"100%"}}>
+    <div style={{display: 'flex', flexDirection:"column", alignItems:"center", width:"100%"}}>
       <h1>React Hooks Examples</h1>
       <img src="https://raw.githubusercontent.com/alDuncanson/react-hooks-snippets/master/icon.png" alt="React Hooks" width={300}/>
       <UseState/>
