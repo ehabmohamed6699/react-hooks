@@ -17,6 +17,8 @@ function App() {
       <UseRef/>
       <UseImperativeHandle/>
       <UseContext/>
+      <h4>Source code: <a href='https://github.com/ehabmohamed6699/react-hooks'>https://github.com/ehabmohamed6699/react-hooks</a></h4>
+      <h4>Reference: <a href='https://www.youtube.com/@PedroTechnologies'>https://www.youtube.com/@PedroTechnologies</a></h4>
     </>
   )
 }
