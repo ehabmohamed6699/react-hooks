@@ -9,7 +9,7 @@ import UseState from './components/UseState/UseState'
 function App() {
   return (
     <>
-      <h1>React Hooks Tutorial</h1>
+      <h1>React Hooks Examples</h1>
       <img src="https://raw.githubusercontent.com/alDuncanson/react-hooks-snippets/master/icon.png" alt="React Hooks" width={300}/>
       <UseState/>
       <UseReducer/>
